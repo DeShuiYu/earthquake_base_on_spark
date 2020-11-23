@@ -1,0 +1,8 @@
+/venv
+/env
+/.ipynb_checkpoints
+/**/.ipynb_checkpoints
+/.vscode
+/**/__pycache__
+/__pycache__
+基于Spark的地震数据处理与分析.py
